@@ -1,3 +1,15 @@
+commit aaeabfd9da57955913aacef089ebe8ef17f96b4e
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sun Jul 20 18:08:41 2025 +0700
+
+    add preguide/ directory
+
+commit 6b2bf202e6ca574620a10dd830b44d1c5a0e0711
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Sun Jul 20 18:07:58 2025 +0700
+
+    update readme
+
 commit 33f060c4b5b91fbe1f853eaa39797f0418eb6097
 Merge: 61d1a6e bb14473
 Author: Denis <46903210+thedenisnikulin@users.noreply.github.com>
