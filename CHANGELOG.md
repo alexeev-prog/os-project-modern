@@ -1,3 +1,9 @@
+commit 24ad2f4ad5d912df415de27cfbd78054e0f38c19
+Author: Alexeev Bronislav <alexeev.dev@mail.ru>
+Date:   Thu Jul 31 10:47:23 2025 +0700
+
+    update preguide
+
 commit b8ce3fff4c0bf537e514642f6119de55517102ce
 Author: Alexeev Bronislav <alexeev.dev@mail.ru>
 Date:   Tue Jul 22 23:24:45 2025 +0700
